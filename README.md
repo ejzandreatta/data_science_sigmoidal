@@ -24,7 +24,7 @@
   <br>
 
   ## Projetos:
-  [* **Análise dos Dados do Airbnb - Buenos Aires, Argentina**](https://github.com/ejzandreatta/data_science_sigmoidal/blob/main/An%C3%A1lise%20dos%20Dados%20do%20Airbnb%20-%20Buenos%20Aires%2C%20Argentina.ipynb)
+  [* **Análise dos Dados do Airbnb - Buenos Aires, Argentina**](https://github.com/ejzandreatta/data_science_sigmoidal/blob/main/P01_An%C3%A1lise%20dos%20Dados%20do%20Airbnb%20-%20Buenos%20Aires%2C%20Argentina.ipynb)
 
 </div>
 
